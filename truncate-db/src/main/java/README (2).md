@@ -7,7 +7,7 @@
 
 ## Насткройка окружения  
 1) Перейти в директорию проекта  
-![Alt text](ICT-HACK-V/truncate-db/src/main/java/readme_pictures/1.png)  
+![Alt text](https://github.com/AsonovNikolay/ICT-HACK-V/blob/main/truncate-db/src/main/java/readme_pictures/1.png)  
 2) Нажатать правой кнопкой мыши по 'pom.xml' и выбрать 'Add as Maven Project'   
 ![Alt text](/readme_pictures/2.png)
 3) Подождать пока не закончится импорт   
