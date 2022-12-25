@@ -9,25 +9,25 @@
 1) Перейти в директорию проекта  
 ![Alt text](https://github.com/AsonovNikolay/ICT-HACK-V/blob/main/truncate-db/src/main/java/readme_pictures/1.png)  
 2) Нажатать правой кнопкой мыши по 'pom.xml' и выбрать 'Add as Maven Project'   
-![Alt text](/readme_pictures/2.png)
+![Alt text](https://github.com/AsonovNikolay/ICT-HACK-V/blob/main/truncate-db/src/main/java/readme_pictures/readme_pictures/2.png)
 3) Подождать пока не закончится импорт   
-![Alt text](/readme_pictures/3.png)
+![Alt text](https://github.com/AsonovNikolay/ICT-HACK-V/blob/main/truncate-db/src/main/java/readme_pictures/readme_pictures/3.png)
 4) После выполнения импорта появится ошибка об отсутсвии JDK   
-![Alt text](/readme_pictures/4.png)
+![Alt text](https://github.com/AsonovNikolay/ICT-HACK-V/blob/main/truncate-db/src/main/java/readme_pictures/readme_pictures/4.png)
 5) Необходимо нажать 'Set JDK', выбрать 'Add JDK' и далее 'Download JDK'   
-![Alt text](/readme_pictures/5.png)
+![Alt text](https://github.com/AsonovNikolay/ICT-HACK-V/blob/main/truncate-db/src/main/java/readme_pictures/readme_pictures/5.png)
 6) В диалоговом окне нужно выбрать '17' версию. Нажать 'OK'   
-![Alt text](/readme_pictures/6.png)
+![Alt text](https://github.com/AsonovNikolay/ICT-HACK-V/blob/main/truncate-db/src/main/java/readme_pictures/readme_pictures/6.png)
 7) Необходимо дождаться установки   
-![Alt text](/readme_pictures/7.png)
+![Alt text](https://github.com/AsonovNikolay/ICT-HACK-V/blob/main/truncate-db/src/main/java/readme_pictures/readme_pictures/7.png)
 8) Далее выбрать 'File' и 'Project Settings'   
-![Alt text](/readme_pictures/8.png)
+![Alt text](https://github.com/AsonovNikolay/ICT-HACK-V/blob/main/truncate-db/src/main/java/readme_pictures/readme_pictures/8.png)
 9) Далее выбрать 'Modules', 'truncate-db', 'sources' и 'Language level' выставить в  '10-Local variable type inference'. Нажать 'OK'.   
-![Alt text](/readme_pictures/9.png)
+![Alt text](https://github.com/AsonovNikolay/ICT-HACK-V/blob/main/truncate-db/src/main/java/readme_pictures/readme_pictures/9.png)
 10) Далее нажать 'File' и выбрать 'Settings'   
-![Alt text](/readme_pictures/10.png)
+![Alt text](https://github.com/AsonovNikolay/ICT-HACK-V/blob/main/truncate-db/src/main/java/readme_pictures/readme_pictures/10.png)
 11) В окно поиска вбить 'java compiler'. Должно появится 'Build, Execution, Deployment > Compiler > Java Compiler'.  Необхоимо выбрать 'Target bytecode version' как 17. Нажать 'OK'.   
-![Alt text](/readme_pictures/11.png)
+![Alt text](https://github.com/AsonovNikolay/ICT-HACK-V/blob/main/truncate-db/src/main/java/readme_pictures/readme_pictures/11.png)
 
 ## Запуск
 1) В файле 'PostgresTruncate.java' необходимо поменять следующие переменные:   
