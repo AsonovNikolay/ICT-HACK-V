@@ -38,8 +38,8 @@
 - pass   
 
   И запустить с помощью конпки 'Play'    
-![Alt text](/readme_pictures/12.png)   
+![Alt text](https://github.com/AsonovNikolay/ICT-HACK-V/blob/main/truncate-db/src/main/java/readme_pictures/12.png)   
    
 2) Пример результата работы       
-![Alt text](/readme_pictures/13.png)
+![Alt text](https://github.com/AsonovNikolay/ICT-HACK-V/blob/main/truncate-db/src/main/java/readme_pictures/13.png)
 
