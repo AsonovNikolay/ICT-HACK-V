@@ -49,17 +49,6 @@ style="border-width:0" src="https://camo.githubusercontent.com/8935c1c469baaaff5
 
 
 
-# Заключение
 
-Проект был разработан студентами ФИКТ Университета ИТМО:
-
-- [Смирнов Тимур](https://github.com/timsmr)
-- [Титенко Елена](https://github.com/oxxawsm)
-- [Асонов Николай](https://github.com/AsonovNikolay)
-
-Привлечены для выполнения сторонней задачи на Java:
-
-- [Таначев Егор](https://github.com/egortanachev)
-- [Гомзяков Александр](https://github.com/fiji6479)
 
 
