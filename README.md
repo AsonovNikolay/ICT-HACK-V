@@ -57,4 +57,9 @@ style="border-width:0" src="https://camo.githubusercontent.com/8935c1c469baaaff5
 - [Титенко Елена](https://github.com/oxxawsm)
 - [Асонов Николай](https://github.com/AsonovNikolay)
 
-Если вам интересен данный проект, мы открыты к предложениям. Канал обратной связи: smrtim17@gmail.com
+Привлечены для выполнения сторонней задачи на Java:
+
+- [Таначев Егор](https://github.com/egortanachev)
+- [Гомзяков Александр](https://github.com/fiji6479)
+
+
